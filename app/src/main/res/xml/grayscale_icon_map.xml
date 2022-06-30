@@ -79,6 +79,7 @@
     <icon drawable="@drawable/calculator" package="com.sec.android.app.popupcalculator" name="Calculator" />
     <icon drawable="@drawable/camera" package="app.grapheneos.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="app.grapheneos.camera.play" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.android.arn" name="Camera" />
     <icon drawable="@drawable/camera" package="com.asus.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.GoogleCamera.mwp83" name="Camera" />
     <icon drawable="@drawable/camera" package="com.googleCamera.Wichaya8" name="Camera" />
@@ -90,6 +91,7 @@
     <icon drawable="@drawable/camera" package="com.footej.camera2" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.MGC_8_4_400" name="Camera" />
     <icon drawable="@drawable/camera" package="com.GoogleCamera.Burial31" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.GoogleCamera.mwp84" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCamera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCamera.Cameight" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCamera.Urnyx" name="Camera" />
@@ -147,6 +149,7 @@
     <icon drawable="@drawable/dialer" package="com.android.dialer" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.android.incallui" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.android.phone" name="Phone" />
+    <icon drawable="@drawable/dialer" package="com.asus.dialer" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.google.android.dialer" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.oneplus.dialer" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.samsung.android.dialer" name="Phone" />
@@ -288,6 +291,7 @@
     <icon drawable="@drawable/linkedin" package="com.linkedin.android" name="LinkedIn" />
     <icon drawable="@drawable/lsposed" package="org.lsposed.manager" name="LSPosed Manager" />
     <icon drawable="@drawable/magisk" package="com.topjohnwu.magisk" name="Magisk" />
+    <icon drawable="@drawable/magisk" package="com.thehitman7.cygisk" name="Magisk" />
     <icon drawable="@drawable/maps" package="com.google.android.apps.maps" name="Google Maps" />
     <icon drawable="@drawable/maps" package="com.google.android.apps.mapslite" name="Google Maps" />
     <icon drawable="@drawable/marindeck" package="online.hisubway.marindeck" name="MarinDeck" />
@@ -360,6 +364,7 @@
     <icon drawable="@drawable/onedrive" package="com.microsoft.skydrive" name="OneDrive" />
     <icon drawable="@drawable/onepassword" package="com.agilebits.onepassword" name="1Password" />
     <icon drawable="@drawable/opera_browser" package="com.opera.browser" name="Opera Browser" />
+    <icon drawable="@drawable/opera_browser" package="com.opera.touch" name="Opera Touch" />
     <icon drawable="@drawable/opera_gx" package="com.opera.gx" name="Opera GX" />
     <icon drawable="@drawable/orbot" package="org.torproject.android" name="Orbot" />
     <icon drawable="@drawable/osmand" package="net.osmand" name="OsmAnd" />
@@ -426,6 +431,7 @@
     <icon drawable="@drawable/relay" package="reddit.news" name="Relay" />
     <icon drawable="@drawable/repainter" package="dev.kdrag0n.dyntheme" name="Repainter" />
     <icon drawable="@drawable/retro_music" package="code.name.monkey.retromusic" name="Retro Music" />
+    <icon drawable="@drawable/retro_music" package="io.github.muntashirakon.Music" name="Metro" />
     <icon drawable="@drawable/revolut" package="com.revolut.revolut" name="Revolut" />
     <icon drawable="@drawable/rockman_x_dive" package="tw.com.capcom.rxd" name="ROCKMAN X DiVE" />
     <icon drawable="@drawable/roku" package="com.roku.remote" name="Roku" />
@@ -491,6 +497,7 @@
     <icon drawable="@drawable/sync" package="com.laurencedawson.reddit_sync.dev" name="Sync" />
     <icon drawable="@drawable/sync" package="com.laurencedawson.reddit_sync.pro" name="Sync" />
     <icon drawable="@drawable/syncthing" package="com.nutomic.syncthingandroid" name="Syncthing" />
+    <icon drawable="@drawable/syncthing" package="com.github.catfriend1.syncthingandroid" name="Syncthing" />
     <icon drawable="@drawable/tagesschau" package="de.tagesschau" name="tagesschau" />
     <icon drawable="@drawable/tapatalk_pro" package="com.quoord.tapatalk" name="Tapatalk Pro" />
     <icon drawable="@drawable/tele2" package="nl.tele2.mytele2" name="Mijn Tele2" />
@@ -546,4 +553,11 @@
     <icon drawable="@drawable/ytstudio" package="com.google.android.apps.youtube.creator" name="YouTube Studio" />
     <icon drawable="@drawable/zarchiver" package="ru.zdevs.zarchiver" name="ZArchiver" />
     <icon drawable="@drawable/zoom" package="us.zoom.videomeetings" name="Zoom" />
+    <icon drawable="@drawable/ella" package="rocks.poopjournal.Ella" name="Ella" />
+    <icon drawable="@drawable/flashy" package="rocks.poopjournal.flashy" name="Flashy" />
+    <icon drawable="@drawable/fxxxs_given" package="rocks.poopjournal.fucksgiven" name="F***s Given" />
+    <icon drawable="@drawable/metadata_remover" package="rocks.poopjournal.metadataremover" name="Metadata Remover" />
+    <icon drawable="@drawable/morse" package="rocks.poopjournal.morse" name="Morse" />
+    <icon drawable="@drawable/to_dont" package="rocks.poopjournal.todont" name="To Donʼt" />
+    <icon drawable="@drawable/vacation_days" package="rocks.poopjournal.vacationdays" name="Vacation Days" />
 </icons>
