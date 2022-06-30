@@ -1,10 +1,5 @@
 runtime_resource_overlay {
     name: "LawniconsLauncher3Overlay",
     sdk_version: "current",
-    overrides: [
-        "ThemedIconsOverlay",
-        "PixelLauncherIconsOverlay",
-        "CustomPixelLauncherOverlay"
-    ],
     product_specific: true
 }
